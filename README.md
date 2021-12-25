@@ -1,1 +1,1 @@
-# build-blog-
+from django.contrib import admin
